@@ -17,7 +17,7 @@ To read more about Apps, check out the blog post [here](https://blog.replit.com/
 
 There are a few requirements to publishing to Apps which mainly revolve around content quality and moderation. Many of these rules are similar or identical to the rules on Repl Talk. If you violate any of the rules, your repl may be removed or your account may be banned temporarily from using Apps.
 
-- **Keep it SFW**. Keep it clean, or SFW (safe for work). No swearing, nudity, or other profanity is allowed on the platform.
+- **Keep it SFW**. Keep it clean, or SFW (safe for work). No swearing, sexual content, or other profanity is allowed on the platform.
 
 - **No bullying**. We have zero tolerance for bullying, trolling, hate speech, racism, sexism, or prejudice of any form. Violation of this rule will result in an immediate ban.
 
